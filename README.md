@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://gowebly.org" target="_blank" title="Go to the Gowebly CLI website"><img width="196px" alt="gowebly logo" src="https://github.com/alejandro99apple/github-final-project/blob/ee98d759a21936b09b3aa273d990155a10dab2b0/Calculator.svg"></a>
+<a href="https://gowebly.org" target="_blank" title="Go to the Gowebly CLI website"><img width="196px" alt="gowebly logo" src="https://github.com/alejandro99apple/github-final-project/blob/ace01ec2bdf15c818a7b04b3b7d7ba142de0b42d/Calculator.svg"></a>
 
 <a name="readme-top"></a>
 
